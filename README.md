@@ -32,7 +32,7 @@ You can modify the investigated parameter (e.g., batch size, learning rate, ther
 
 
 ## Citation
-If you use this work in your research or find it useful, kindly cite the following [article](https://ieeexplore.ieee.org/abstract/document/10821503):
+If you use this work in your research or find it useful, kindly cite the following [article](https://doi.org/10.1109/ICARCV63323.2024.10821503):
 ```
 @INPROCEEDINGS{Ref_Bano_SNNParams_ICARCV24,
   author={Bano, Iqra and Wicaksana Putra, Rachmad Vidya and Marchisio, Alberto and Shafique, Muhammad},
