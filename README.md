@@ -47,4 +47,4 @@ If you use this work in your research or find it useful, kindly cite the followi
 
 ```
 
-This work is inspired from the work of [SNN4Agents] (https://doi.org/10.3389/frobt.2024.1401677).
+This work is inspired from the work of SNN4Agents: [paper](https://doi.org/10.3389/frobt.2024.1401677) & [code](https://github.com/rachmadvwp/SNN4Agents).
